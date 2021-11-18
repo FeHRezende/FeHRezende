@@ -1,16 +1,24 @@
-### Hi there 👋
-
-<!--
-**FeHRezende/FeHRezende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hello World ... I'm Fernanda Rezende 👋
+⚛️ I’m currently working on React.js and Node.js <br>
+📚 I’m currently Front-end
+<hr>
+<div>
+  <img title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" />&nbsp;
+  <img title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" />&nbsp;
+  <a href="https://reactjs.org/"><img title="ReactJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" /></a>&nbsp;
+  <a href="https://vuejs.org/"><img title="VueJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="30" /></a>&nbsp;
+  <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" />&nbsp;
+  <a href="https://www.php.net/docs.php"><img title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="30" /></a>&nbsp;
+  <a href="https://nodejs.org/en/docs/"><img title="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" /></a>&nbsp;
+  <a href="https://getbootstrap.com/"><img title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="30" /></a>&nbsp;
+  <a href="https://dev.mysql.com/doc/"><img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="30" /></a>&nbsp;
+  <a href="https://www.postgresql.org/docs/"><img title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" />       </a>&nbsp;
+  <a href="https://docs.microsoft.com/"><img title="Sql Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="30" /></a>&nbsp;
+</div>
+<hr>
+<div>
+   <a href="mailto:fernanda.oli.rezende@gmail.com" target="_black"><img title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" hight="30" /></a>&nbsp;
+    <a href="https://www.linkedin.com/in/rezendefernanda/"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" hight="30" /></a>&nbsp;
+</div>
+ 
+![Snake animation](https://github.com/FeHRezende/FeHRezende/blob/output/github-contribution-grid-snake.svg)
