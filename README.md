@@ -1,6 +1,6 @@
 ### Hello World ... I'm Fernanda Rezende 👋
-⚛️ I’m currently working on React.js and Node.js <br>
-📚 I’m currently Front-end
+⚛️ I'm currently working on React.js and Node.js <br>
+📚 I'm currently learning Front-end
 <hr>
 <div>
   <img title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" />&nbsp;
